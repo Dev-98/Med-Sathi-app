@@ -1,6 +1,5 @@
-# Med-Sathi-app
-
-
+# Med-Sathi-app 
+<img src="Logo.png" width=200 height=200>
 
 # The Why ?
 Over the last two years preventable drug overdose deaths increased 58.0%, from 62,172 in 2019. In 2021, 98,268 people died from preventable drug overdoses – an increase of 781% since 1999.MedSathi is a project which aims to reduce the number of deaths caused by drug overdoses  .
