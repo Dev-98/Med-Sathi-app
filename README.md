@@ -35,6 +35,6 @@ NODE JS
 EXPRESS JS
 
 # How to run the project locally
-The project can be installed in apk format on any android device the only dependecy is a camera 
+First, user have to install all libraries that is required using ~ pip install -r requirements.txt (windows) 
 
 
