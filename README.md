@@ -37,6 +37,6 @@ EXPRESS JS
 All the programming of the website was done on Replit IDE  
 
 # How to run the project locally
-First, you have to clone the repositry onto their system.
-Second, then you have to install all libraries that is required using ~ pip install -r requirements.txt (windows). 
+First, you have to clone the repositry onto your system  
+Second, then you have to install all libraries that is required using ~ pip install -r requirements.txt (windows)  
 Third, then you can just run it by writing this in terminal ~ python app.py (windows, python  >= 3.x) 
