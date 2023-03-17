@@ -40,3 +40,12 @@ All the programming of the website was done on Replit IDE
 First, you have to clone the repositry onto your system  
 Second, then you have to install all libraries that is required using ~ pip install -r requirements.txt (windows)  
 Third, then you can just run it by writing this in terminal ~ python main.py (windows, python  >= 3.x) 
+
+
+# Preview of the project 
+<img src="preview/main page.jpg" width=800 height=600>
+<img src="preview/result.jpg" width=800 height=600>
+<img src="preview/web 1.png" width=800 height=600>
+<img src="preview/web 2.png" width=800 height=600>
+
+
